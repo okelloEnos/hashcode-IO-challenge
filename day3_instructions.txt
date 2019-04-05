@@ -1,0 +1,2 @@
+3. Given a list of photos and the tags associated with each photo, you have a task to arrange the photos into a slideshow . Attached is a problem statement together with the datasets that shall aid you on how to come up with a slide show. 
+N/B. In Question 3. We are not concerned on how interesting your slide show might be  , provided you come up with a slide show that meets the stipulations given in the attached problem statement.
